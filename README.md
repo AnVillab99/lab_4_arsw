@@ -16,7 +16,7 @@ Threads control using wait/notify. Producer/Consumer
 3.  Make a producer that produces as fast as it can, and the consumer consumes slow, keeping in mind that the producer knows a Stock limit (how many elements have to have at most in the queue) your code has to respect that limit.Check the Collection API used as queue in order to validate that the limit not be exceeded.Verify that when you set a small limit in the stock, there is not a high CPU consumption or errors. So that, altogether we are exploring the total of servers
     ![imagen de consumo de consumidor productor original](https://github.com/NigDra/lab_4_arsw/blob/master/images/procons1.PNG)
     
-    ![imagen de consumo mejorado de consumidor productor](https://github.com/NigDra/lab_4_arsw/images/proconsmejorado.png	)
+    ![imagen de consumo mejorado de consumidor productor](https://github.com/NigDra/lab_4_arsw/images/proconsmejorado.PNG)
 
 ## Part II:[](#part-ii)
 
