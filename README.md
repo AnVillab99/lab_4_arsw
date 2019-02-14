@@ -16,7 +16,7 @@ Threads control using wait/notify. Producer/Consumer
 3.  Make a producer that produces as fast as it can, and the consumer consumes slow, keeping in mind that the producer knows a Stock limit (how many elements have to have at most in the queue) your code has to respect that limit.Check the Collection API used as queue in order to validate that the limit not be exceeded.Verify that when you set a small limit in the stock, there is not a high CPU consumption or errors. So that, altogether we are exploring the total of servers
     ![imagen de consumo de consumidor productor original](https://github.com/NigDra/lab_4_arsw/blob/master/images/procons1.PNG)
     
-    ![imagen de consumo mejorado de consumidor productor](https://github.com/NigDra/lab_4_arsw/images/proconsmejorado.PNG)
+    ![imagen de consumo mejorado de consumidor productor](https://github.com/NigDra/lab_4_arsw/blob/master/proconsmejorado.PNG)
 
 ## Part II:[](#part-ii)
 
@@ -28,9 +28,9 @@ Considering this:
 
 2.The above, ensuring that there are no race conditions
 
-![imagen de consumo y tiempo original blacklist](images/blacListVanilla.png	)
+![imagen de consumo y tiempo original blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blacListVanilla.png	)
 
-![imagen de consumo y tiempo mejorados blacklist](images/blackListRebuild.png	)
+![imagen de consumo y tiempo mejorados blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blackListRebuild.png	)
 ## PART III:[](#part-ii-1)
 
 Synchronization and deadlocks
@@ -77,10 +77,10 @@ Solve the problem identified above without use Sinchronization, cause the sequen
 
 11. Finally, implement the stop option
 
-![imagen de pause and check](images/pauseAndCheck.png)
+![imagen de pause and check](https://github.com/NigDra/lab_4_arsw/blob/master/images/pauseAndCheck.png)
 
-![imagen de resume y luego pausa](images/resume.png)
+![imagen de resume y luego pausa](https://github.com/NigDra/lab_4_arsw/blob/master/images/resume.png)
 
-![imagen de pause stop](images/stop.png)
+![imagen de pause stop](https://github.com/NigDra/lab_4_arsw/blob/master/images/stop.png)
 
-![imagen de 1000 inmortales](images/1000.png)
+![imagen de 1000 inmortales](https://github.com/NigDra/lab_4_arsw/blob/master/images/1000.png)
