@@ -28,9 +28,9 @@ Considering this:
 
 2.The above, ensuring that there are no race conditions
 
-![imagen de consumo y tiempo original blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blacListVanilla.png	)
+![imagen de consumo y tiempo original blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blacListVanilla.PNG)
 
-![imagen de consumo y tiempo mejorados blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blackListRebuild.png	)
+![imagen de consumo y tiempo mejorados blacklist](https://github.com/NigDra/lab_4_arsw/blob/master/images/blackListRebuild.PNG)
 ## PART III:[](#part-ii-1)
 
 Synchronization and deadlocks
@@ -77,10 +77,10 @@ Solve the problem identified above without use Sinchronization, cause the sequen
 
 11. Finally, implement the stop option
 
-![imagen de pause and check](https://github.com/NigDra/lab_4_arsw/blob/master/images/pauseAndCheck.png)
+![imagen de pause and check](https://github.com/NigDra/lab_4_arsw/blob/master/images/pauseAndCheck.PNG)
 
-![imagen de resume y luego pausa](https://github.com/NigDra/lab_4_arsw/blob/master/images/resume.png)
+![imagen de resume y luego pausa](https://github.com/NigDra/lab_4_arsw/blob/master/images/resume.PNG)
 
-![imagen de pause stop](https://github.com/NigDra/lab_4_arsw/blob/master/images/stop.png)
+![imagen de pause stop](https://github.com/NigDra/lab_4_arsw/blob/master/images/stop.PNG)
 
-![imagen de 1000 inmortales](https://github.com/NigDra/lab_4_arsw/blob/master/images/1000.png)
+![imagen de 1000 inmortales](https://github.com/NigDra/lab_4_arsw/blob/master/images/1000.PNG)
